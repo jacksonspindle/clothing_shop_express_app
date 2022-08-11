@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    max-width: 400px;
+}
+
+li {
+    color: white;
+    list-style: none;
+    
+}
+
+.shoe-card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+}
